@@ -10,7 +10,7 @@ form.addEventListener('submit', (e) => {
     // Simulate login validation (replace with your actual logic)
     if (username === 'Moral' && password === 'moral123') {
         
-        window.location.href = "https://godrivelog.github.io/login/bokachoda.html";
+        window.location.href = "https://godrivelive.github.io/Moralgodrivelive";
     } else {
         message.textContent = 'Churi korte aiso beda ?';
     }
