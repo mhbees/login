@@ -16,6 +16,6 @@ form.addEventListener('submit', (e) => {
     }
     if (username === 'Sadik4u3' && password === '@sadik3241') {
         
-        window.location.href = "https://godrivelog.github.io/login/bokachoda.html";
+        window.location.href = "https://godrivelive.github.io/Sadikgodrivelive";
     } 
 });
