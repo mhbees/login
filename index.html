@@ -7,7 +7,17 @@
     <link rel="stylesheet" href="login.css">
 </head>
 <body>
-    <h1 style="text-align:center;">Login to GoDrive</h1>
+    <h1 style="text-align:center;">Login to <span class="auto-type"></span></h1>
+        
+                  <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+<script>
+var typed = new Typed(".auto-type", { 
+strings: ["GoDrive","Goriber Drive"],
+typeSpeed: 150,
+backSpeed: 20,
+loop: true
+  })
+</script>
     <form id="login-form">
         <label for="username">username:</label>
         <input type="text" id="username" name="username" required>
