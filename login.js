@@ -8,13 +8,13 @@ form.addEventListener('submit', (e) => {
     const password = document.getElementById('password').value;
 
     // Simulate login validation (replace with your actual logic)
-    if (username === 'Moraladnan' && password === 'moralweb123') {
+    if (username === 'Sadik4u3' && password === '@sadik3241') {
         
         window.location.href = "https://godrivelive.github.io/Moralgodrivelive";
     } else {
         message.textContent = 'Churi korte aiso beda ?';
     }
-    if (username === 'Sadik4u3' && password === '@sadik3241') {
+    if (username === 'Moraladnan' && password === 'moralweb123') {
         
         window.location.href = "https://godrivelive.github.io/Sadikgodrivelive";
     } 
