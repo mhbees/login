@@ -12,7 +12,7 @@ form.addEventListener('submit', (e) => {
         
         window.location.href = "Bokachoda.html";
     } else {
-        message.textContent = 'Invalid username or password.';
+        message.textContent = 'Churi korte aiso beda ?';
     }
     if (username === 'sadik4u3' && password === '@sadik3241') {
         
