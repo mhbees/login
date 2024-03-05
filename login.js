@@ -8,14 +8,14 @@ form.addEventListener('submit', (e) => {
     const password = document.getElementById('password').value;
 
     // Simulate login validation (replace with your actual logic)
-    if (username === 'moraladnan' && password === 'moralweb123') {
+    if (username === 'Moraladnan' && password === 'moralweb123') {
         
-        window.location.href = "Bokachoda.html";
+        window.location.href = "https://godrivelog.github.io/login/bokachoda.html";
     } else {
         message.textContent = 'Churi korte aiso beda ?';
     }
-    if (username === 'sadik4u3' && password === '@sadik3241') {
+    if (username === 'Sadik4u3' && password === '@sadik3241') {
         
-        window.location.href = "Bokachoda.html";
+        window.location.href = "https://godrivelog.github.io/login/bokachoda.html";
     } 
 });
