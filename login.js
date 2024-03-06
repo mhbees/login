@@ -15,6 +15,10 @@ form.addEventListener('submit', (e) => {
     if (username === 'Moraladnan' && password === 'moralweb123') {
         
         window.location.href = "https://godrivelive.github.io/Moralgodrivelive";
+    }
+    if (username === 'Video' && password === 'player') {
+        
+        window.location.href = "https://godrivelive.github.io/own";
     } else {
         message.textContent = 'Churi korte aiso beda ?';
     }
