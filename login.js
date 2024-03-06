@@ -8,7 +8,7 @@ form.addEventListener('submit', (e) => {
     const password = document.getElementById('password').value;
 
     // Simulate login validation (replace with your actual logic)
-    if (username === 'Sadik4u3' && password === '@sadik3241') {
+    if (username === 'Sadik4u3' && password === 'sadik3241') {
         
         window.location.href = "https://godrivelive.github.io/Sadikgodrivelive";
     } 
