@@ -20,8 +20,7 @@ form.addEventListener('submit', (e) => {
         
         window.location.href = "https://godrivelive.github.io/own";
     } else {
-        window.location.href = "https://godrivelog.github.io/login/bokachoda.html";
-   
+        message.textContent = 'churi korte aiso beda -_o?';
     }
 });
 
