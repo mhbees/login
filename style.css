@@ -16,6 +16,11 @@ body {
 	align-items: center;
 	justify-content: center;
 	min-height: 100vh;
+	h1 {
+  background: linear-gradient(113.3deg, rgb(0, 98, 186) -6%, rgb(88, 40, 178) 10.2%, rgb(234, 39, 119) 34.3%, rgb(255, 80, 152) 54%, rgb(255, 101, 74) 62.5%, rgb(254, 166, 34) 77.2%, rgb(255, 227, 99) 91.2%, rgb(58, 243, 156) 112%, rgb(58, 243, 156) 118.1%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+	}
 }
 
 .screen {		
