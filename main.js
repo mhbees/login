@@ -10,11 +10,11 @@ form.addEventListener('submit', (e) => {
     // Simulate login validation (replace with your actual logic)
     if (username === 'Sadik4u3' && password === 'sadik3241') {
         
-        window.location.href = "https://godrivelive.github.io/Sadikgodrivelive";
+        window.location.href = "sadik.html";
     } 
     if (username === 'Moraladnan' && password === 'moralweb123') {
         
-        window.location.href = "https://godrivelive.github.io/Moralgodrivelive/dark.html";
+        window.location.href = "adnan.html";
     }
     if (username === 'Video' && password === 'player') {
         
