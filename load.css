@@ -11,7 +11,7 @@
   --rotation-x: 0;
 	--size: 80vmin;
 	--segment: calc(var(--size) / 100);
-	--loading-speed: 4.9s;
+	--loading-speed: 3s;
 	--color: hsl(210 80% 50%);
 	--segments-per-second: calc(var(--loading-speed) / var(--total-length));
 }
